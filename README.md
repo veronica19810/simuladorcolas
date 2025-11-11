@@ -7,21 +7,6 @@ El programa calcula métricas como tiempos de espera, atención y utilización d
 	•	Calcula el tiempo promedio de espera y de servicio.g
 	•	Guarda los datos de la simulación en un archivo CSV para análisis posterior.
 
-# ESTRUCTURA DEL PROYECTO
-SIMULADOR DE COLA/
-│
-├── data/
-│   └── resultados.csv          Archivo donde se guardan los resultados de la simulación
-│
-├── src/
-│   ├── main.py                 Archivo principal del proyecto (punto de entrada)
-│   └── utils/
-│       └── funciones.py        Funciones de simulación y generación de resultados
-│
-├── .gitignore                  Archivos y carpetas ignorados por Git
-├── README.md                   Descripción del proyecto
-└── requirements.txt            Requisitos del proyecto
-
 # ¿CÓMO EJECUTAR EL PROYECTO?
 	1.	Asegúrate de tener Python 3.7 o superior instalado en tu equipo.
 	2.	Clona o descarga este repositorio en tu computador.
