@@ -29,6 +29,5 @@ Autores
 	•	DARA JULIETH POLO DUMAR
 	•	VERÓNICA RESTÁN DOVAL 
 	•	ISABELLA FRANCO PATIÑO
-
+    
 Este proyecto fue desarrollado con fines académicos y puede ser reutilizado para el aprendizaje de simulación de colas y estructuras computacionales.
-
